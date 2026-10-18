@@ -1,0 +1,1 @@
+"""Lightweight RAG pipeline package."""
